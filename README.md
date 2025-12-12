@@ -1,8 +1,7 @@
-# Qiskit Seminar
+# Solving Ising model with Qiskit
 
-An introduction to Qiskit by me and Lukas Helmig in Cologne university.
-The magnetization of Ising model is investigated both in real IBM quantum
-computers, as well as its simulators. The results are compared. 
 
-Note that some images are not shown in the gitlab due to path issues. 
+<img src="img/ibmq_manila_layer.png" width="600">
 
+
+An introduction to Qiskit is presented by me and Lukas Helmig at the University of Cologne. The magnetization of the Ising model is examined on real IBM quantum computers and on their simulators. 
